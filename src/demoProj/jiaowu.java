@@ -3,7 +3,7 @@ package demoProj;
 public class jiaowu {
 
 	public static void main(String[] args) {
-		System.out.println("goods!");
+		System.out.println("goods branch!");
 
 	}
 
